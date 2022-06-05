@@ -5,7 +5,7 @@ Source files for official website of "The Animal Farm", formerly Bookery ðŸ“šðŸ‘
 
 Check out our Insta (not updating daily for the moment) : https://instagram.com/_bookery_?igshid=YmMyMTA2M2Y=
 
-Some daily features fom our old Insta page - quizzes, book reviews, movie reviews and more,
+Some daily features from our old Insta page - quizzes, book reviews, movie reviews and more,
 
 ![palace](https://user-images.githubusercontent.com/88293763/172064147-f3685fae-f088-4883-9e7b-ff26591f96eb.jpeg)
 
